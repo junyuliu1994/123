@@ -24,6 +24,7 @@ public class Hello {
 
     public static void goldLeader() {
         System.out.println("Loosen up!");
+        System.out.println("Loosen up!");
         // Gold Leader should add a print statement that says "Loosen up!"
     
 
