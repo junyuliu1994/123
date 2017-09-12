@@ -2,6 +2,7 @@ public class Hello {
 
     public static void main(String[] args) {
         System.out.println("Lock S-foils in attack position.")
+        System.out.println("Stabilize your rear deflectors... Watch for enemy fighters.")
         goldLeader();
         redLeader();
         callSign();
