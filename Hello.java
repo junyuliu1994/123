@@ -1,7 +1,7 @@
 public class Hello {
 
     public static void main(String[] args) {
-
+        System.out.println("Lock S-foils in attack position.")
         goldLeader();
         redLeader();
         callSign();
