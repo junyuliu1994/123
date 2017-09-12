@@ -27,6 +27,7 @@ public class Hello {
 
     public static void redLeader() {
         System.out.println("I copy, gold leader!");
+        System.out.println("Loosen up!");
         // Red Leader should add a print statement that says "I copy, gold leader!"
 
 
