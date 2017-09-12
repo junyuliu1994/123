@@ -1,7 +1,7 @@
 public class Hello {
 
     public static void main(String[] args) {
-
+        System.out.println("Stabilize your rear deflectors... Watch for enemy fighters.")
         goldLeader();
         redLeader();
         callSign();
