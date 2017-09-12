@@ -22,6 +22,7 @@ public class Hello {
     public static void goldLeader() {
         System.out.println("Loosen up!");
         System.out.println("I copy, gold leader!");
+        System.out.println("Stabilize your rear deflectors... Watch for enemy fighters.")
         // Gold Leader should add a print statement that says "Loosen up!"
 
 
