@@ -31,7 +31,7 @@ public class MonthCalendar {
             System.exit(1);
         }
 
-        if (month < 1 || month > 12) {
+        if ((month < 1 || month > 12) || (year < 1753 || year > 3000)) {
             System.err.println("This is invalid.");
             System.exit(1);
         }
